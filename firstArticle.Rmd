@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction
 
 This is a great introduction _italics_ **bold**
+Yes, this is working fine! :)
 
 * one
 * two
